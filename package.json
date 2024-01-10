@@ -2,7 +2,7 @@
   "dependencies": {
     "async": "^3.2.4",
     "ecstatic": "^4.1.4",
-    "follow-redirects": "^1.15.2",
+    "follow-redirects": "^1.15.4",
     "lodash": "^4.17.21",
     "minimist": "^1.2.7"
   }
